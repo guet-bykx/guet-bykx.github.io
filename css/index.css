@@ -2491,7 +2491,7 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (max-width: 768px) {
   #icat-about-page .Philosophical .P-box-left .image {
-    width: 420px;
+    width: 380px;
     right: 18px;
     top: 0px;
   }
@@ -2602,11 +2602,11 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (max-width: 768px) {
   #icat-about-page .Socialize .S-img .img-box {
-    -webkit-transform: rotate(12deg) translateY(62%) scale(2);
-    -moz-transform: rotate(12deg) translateY(62%) scale(2);
-    -o-transform: rotate(12deg) translateY(62%) scale(2);
-    -ms-transform: rotate(12deg) translateY(62%) scale(2);
-    transform: rotate(12deg) translateY(62%) scale(2);
+    -webkit-transform: rotate(12deg) translateY(62%) scale(1);
+    -moz-transform: rotate(12deg) translateY(62%) scale(1);
+    -o-transform: rotate(12deg) translateY(62%) scale(1);
+    -ms-transform: rotate(12deg) translateY(62%) scale(1);
+    transform: rotate(12deg) translateY(62%) scale(1);
   }
 }
 #icat-about-page #two {
