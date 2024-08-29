@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://guet-bykx.top/2024/08/22/%E7%A7%91%E5%8D%8F%E6%8B%9B%E6%96%B0/</loc>
+    <loc>https://www.guet-bykx.top/2024/08/20/%E7%A7%91%E5%8D%8F%E7%AE%80%E4%BB%8B/</loc>
     
-    <lastmod>2024-08-25</lastmod>
+    <lastmod>2024-08-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://guet-bykx.top/about/index.html</loc>
+    <loc>https://www.guet-bykx.top/2024/08/22/%E7%A7%91%E5%8D%8F%E6%8B%9B%E6%96%B0/</loc>
+    
+    <lastmod>2024-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.guet-bykx.top/about/index.html</loc>
     
     <lastmod>2024-08-20</lastmod>
     
@@ -20,16 +29,7 @@
   </url>
   
   <url>
-    <loc>https://guet-bykx.top/2024/08/20/%E7%A7%91%E5%8D%8F%E7%AE%80%E4%BB%8B/</loc>
-    
-    <lastmod>2024-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guet-bykx.top/tags/index.html</loc>
+    <loc>https://www.guet-bykx.top/tags/index.html</loc>
     
     <lastmod>2024-08-19</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://guet-bykx.top/link/index.html</loc>
+    <loc>https://www.guet-bykx.top/link/index.html</loc>
     
     <lastmod>2024-08-19</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>https://guet-bykx.top/</loc>
+    <loc>https://www.guet-bykx.top/</loc>
     <lastmod>2024-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
