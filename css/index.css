@@ -2351,7 +2351,7 @@ figure.highlight pre .javascript .function {
 }
 #icat-about-page #one .photo {
   overflow: hidden;
-  background: url("https://img.picui.cn/free/2024/08/21/66c58a64e8732.jpg") no-repeat center;
+  background: url("https://cdn.jsdelivr.net/gh/allrightcallmeGaGa/blog-img@main/bykx/hezhao.jpg") no-repeat center;
   background-size: 180%;
   -webkit-transition: 1s;
   -moz-transition: 1s;
@@ -2376,7 +2376,7 @@ figure.highlight pre .javascript .function {
   background-position-y: 50%;
 }
 #icat-about-page #one .map {
-  background: url("https://i2.imgs.ovh/d/BQACAgEAAx0EUvSR8wACLtVmxYTkGbq4c6QryxG9dYOv0KsOOAACHAQAAnRUMUZrLzPbE9wtQzUE") no-repeat center;
+  background: url("https://cdn.jsdelivr.net/gh/allrightcallmeGaGa/blog-img@main/bykx/location_Light.png") no-repeat center;
   background-size: 100%;
   overflow: hidden;
   -webkit-transition: 2s;
@@ -2585,7 +2585,7 @@ figure.highlight pre .javascript .function {
   }
 }
 #icat-about-page .Socialize .S-img .img-box {
-  background: url("https://img.picui.cn/free/2024/08/22/66c72ce08d4bb.png") no-repeat center;
+  background: url("https://cdn.jsdelivr.net/gh/allrightcallmeGaGa/blog-img@main/bykx/IMG_9119_new.png") no-repeat center;
   background-size: contain;
   aspect-ratio: 8/16;
   height: 95%;
@@ -2727,7 +2727,7 @@ figure.highlight pre .javascript .function {
   background-size: cover;
 }
 #icat-about-page #two .information .Version .V-box:nth-child(3):before {
-  background: url("https://img.picui.cn/free/2024/08/25/66cb483df20f5.png") no-repeat center;
+  background: url("https://cdn.jsdelivr.net/gh/allrightcallmeGaGa/blog-img@main/bykx/bykx_icon.png") no-repeat center;
   background-size: cover;
 }
 #icat-about-page #two .information .Version .V-box:before {
@@ -3102,7 +3102,7 @@ figure.highlight pre .javascript .function {
   margin-right: 0;
 }
 [data-theme='dark'] #icat-about-page #one .map {
-  background: url("https://i2.imgs.ovh/d/BQACAgEAAx0EUvSR8wACLtZmxYT8kZEDgx4-HIsYPHzii_wp5gACHQQAAnRUMUaC7Cy8bTzKFTUE") no-repeat center;
+  background: url("https://cdn.jsdelivr.net/gh/allrightcallmeGaGa/blog-img@main/bykx/location_Black.png") no-repeat center;
   background-size: 100%;
 }
 [data-theme='dark'] #icat-about-page #one .map:hover {
