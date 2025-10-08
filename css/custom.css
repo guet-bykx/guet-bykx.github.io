@@ -96,6 +96,14 @@ div#archive {
   background: transparent !important;
 }
 
+/* 页脚与头图透明 */
+#footer {
+  background: transparent !important;
+}
+#page-header {
+  background: transparent !important;
+}
+
 /* 阅读模式 */
 .read-mode #aside-content .card-widget {
   background: rgba(158, 204, 171, 0.5) !important;
